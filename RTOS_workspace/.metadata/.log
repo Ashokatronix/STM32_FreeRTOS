@@ -1,0 +1,24 @@
+!SESSION 2024-11-03 14:14:44.827 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-11-03 14:15:02.835
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-11-03 14:15:02.842
+!MESSAGE Log4j2 initialized with config file E:\Git\STM32_FreeRTOS\RTOS_workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-03 14:15:07.334
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-03 14:17:54.063
+!MESSAGE Indexed 'FreeRTOS_Project' (19 sources, 81 headers) in 6.2 sec: 4,560 declarations; 22,046 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0075%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-03 14:48:31.620
+!MESSAGE Indexed 'FreeRTOS_Project' (30 sources, 100 headers) in 2.57 sec: 7,412 declarations; 45,831 references; 1 unresolved inclusions; 8 syntax errors; 14 unresolved names (0.026%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-03 14:53:50.908
+!MESSAGE Indexed 'FreeRTOS_Project' (30 sources, 101 headers) in 1.98 sec: 7,861 declarations; 49,619 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
