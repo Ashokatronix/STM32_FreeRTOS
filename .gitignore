@@ -54,3 +54,5 @@ dkms.conf
 #Untracked Folders
 /RTOS_workspace/.metadata
 /RTOS_workspace/.metadata/.plugins
+/RTOS_workspace/FreeRTOS_Project/Debug
+/RTOS_workspace/.metadata
